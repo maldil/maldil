@@ -15,7 +15,7 @@ int main(void){
 }
 {% endhighlight %}
 
-## Publications. 
+# Publications. 
 ### Journals.  
 **[Understanding Software-2.0: A Study of Machine Learning library usage and evolution](https://ir.library.oregonstate.edu/concern/defaults/3b591h056)**<br/>
 Malinda Dilhara, Ameya Ketkar, Danny Dig. ([dataset](https://serene-beach-16261.herokuapp.com/))
