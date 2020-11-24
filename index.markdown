@@ -22,7 +22,7 @@ int main(void){
 **[Understanding Software-2.0: A Study of Machine Learning library usage and evolution](https://ir.library.oregonstate.edu/concern/defaults/3b591h056)**<br/>
 Malinda Dilhara, Ameya Ketkar, Danny Dig. ([dataset](https://serene-beach-16261.herokuapp.com/))
 
-### Conference Papers 
+### Conference Papers.
 
 **[Automated detection and repair of incompatible uses of runtime permissions in Android apps](https://www.researchgate.net/profile/Haipeng_Cai/publication/326566842_Automated_detection_and_repair_of_incompatible_uses_of_runtime_permissions_in_Android_apps/links/5bd2a997299bf1124fa37c9b/Automated-detection-and-repair-of-incompatible-uses-of-runtime-permissions-in-Android-apps.pdf)** (MOBILESoft 2018)<br/>
 Malinda Dilhara, Haipeng Cai, John Jenkins ([tool](https://bitbucket.org/malindadoo/arpdroid))
