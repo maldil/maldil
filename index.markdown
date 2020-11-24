@@ -5,7 +5,7 @@ title: About
 
 
 <img src="/images/shakespeare.png" class="right" />
-**William Shakespeare** (26 April 1564 – 23 April 1616) was an English poet and playwright, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the "Bard of Avon". His extant works, including some collaborations, consist of about 38 plays, 154 sonnets, two long narrative poems, and a few other verses, the authorship of some of which is uncertain. His plays have been translated into every major living language and are performed more often than those of any other playwright.
+Malinda is a PhD candidate in the department of computer science at Oregon State University. He received his B.Sc. from [University of Moratuwa](http://www.ent.mrt.ac.lk/web3/), Sri Lanka in 2015. He is a former senior software engineer in [London Stock Exchange Technology](https://www.lseg.com). Malinda enjoys doing research on software engineering, software quality of ML software, static code analysis, software refactoring and empirical software engineering.
 
 
 {% highlight ruby %}
