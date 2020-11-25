@@ -24,8 +24,8 @@ Malinda Dilhara, Ameya Ketkar, Danny Dig. ([dataset](https://serene-beach-16261.
 
 ### Conference Papers.
 
-**1. [Automated detection and repair of incompatible uses of runtime permissions in Android apps](https://www.researchgate.net/profile/Haipeng_Cai/publication/326566842_Automated_detection_and_repair_of_incompatible_uses_of_runtime_permissions_in_Android_apps/links/5bd2a997299bf1124fa37c9b/Automated-detection-and-repair-of-incompatible-uses-of-runtime-permissions-in-Android-apps.pdf)** (MOBILESoft 2018)<br/>
-Malinda Dilhara, Haipeng Cai, John Jenkins ([tool](https://bitbucket.org/malindadoo/arpdroid))
+**1. [Automated detection and repair of incompatible uses of runtime permissions in Android apps](https://www.researchgate.net/profile/Haipeng_Cai/publication/326566842_Automated_detection_and_repair_of_incompatible_uses_of_runtime_permissions_in_Android_apps/links/5bd2a997299bf1124fa37c9b/Automated-detection-and-repair-of-incompatible-uses-of-runtime-permissions-in-Android-apps.pdf)** (MOBILESoft 2018)<br/> 
+Malinda Dilhara, Haipeng Cai, John Jenkins ([tool](https://bitbucket.org/malindadoo/arpdroid)) ([slides](https://github.com/maldil/maldil.github.io/blob/master/slides/Automated%20Detection%20and%20Repair%20of%20Incompatible%20Uses%20of%20Runtime%20Permissions%20in%20Android%20Apps-r2.pptx))
 
 **2. [Sensor platform for non-invasive ubiquitous current sensing](https://ieeexplore.ieee.org/abstract/document/7796322)** (ICST-2016)<br/>
 Malinda Dilhara, Jayathu Samarawickrama, Samitha Elvitigala
